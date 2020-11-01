@@ -1,3 +1,3 @@
-# TRCGroup1Notes
+# Titan Robotics Programming Notes
 
-Please refer to the https://github.com/simra/TRCGroup1Notes/wiki.
+Please refer to the https://github.com/simra/Titan-Robotics-Programming-Notes/wiki.
